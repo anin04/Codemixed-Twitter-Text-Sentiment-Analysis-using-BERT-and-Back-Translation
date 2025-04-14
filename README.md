@@ -1,2 +1,4 @@
 # Codemixed Twitter Text Sentiment Analysis using BERT with Back Translation
- -
+Semantic Task (sentiment analysis)
+### About
+This research explores improving BERT's performance in sentiment analysis on code-mixed Indonesian-English Twitter data, which often includes slang, abbreviations, and inconsistent grammar. The study combines the BERT model with back translation techniques to address these challenges, using the INDONGLISH dataset of 5,067 labeled tweets. Results show that applying back translation directly to the tweet data improved BERTweet's accuracy from 0.7270 to 0.7457, while applying back translation after monolingual translation decreased accuracy to 0.7161. These findings highlight that additional translation steps may reduce accuracy in sentiment analysis for code-mixed datasets.
