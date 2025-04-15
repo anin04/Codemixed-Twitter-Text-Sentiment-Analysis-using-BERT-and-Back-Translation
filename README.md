@@ -9,6 +9,7 @@ by: Nisrina Hanifa Setiono
 3. [Performance Results](#3-performance-results)
 4. [Back Translation Results](#4-back-translation-results)
 5. [Conclusion](#5-conclusion)
+6. [References](#6-references)
 
 ## 1. Introduction
 
