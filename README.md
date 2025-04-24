@@ -2,6 +2,8 @@
 
 by: Nisrina Hanifa Setiono
 
+## Paper Draft
+https://drive.google.com/file/d/1Xs2qj1muXkkoRvWa4WQaJyvAXvsSoz9h/view?usp=sharing
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
